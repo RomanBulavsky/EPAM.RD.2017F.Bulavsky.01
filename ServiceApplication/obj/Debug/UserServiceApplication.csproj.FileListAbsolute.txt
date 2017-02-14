@@ -1,0 +1,3 @@
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\bin\Debug\ServiceApplication.exe.config
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\obj\Debug\ServiceApplication.exe
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\obj\Debug\ServiceApplication.pdb

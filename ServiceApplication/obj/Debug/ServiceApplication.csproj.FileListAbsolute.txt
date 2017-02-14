@@ -1,0 +1,17 @@
+C:\Users\Novel\Desktop\dotnetbasics-master\Day1\SampleService\ServiceApplication\bin\Debug\ServiceApplication.exe.config
+C:\Home\EPAM_LAB\dotnetbasics-master\Day1\SampleService\ServiceApplication\bin\Debug\ServiceApplication.exe.config
+C:\Home\EPAM_LAB\dotnetbasics-master\Day1\SampleService\ServiceApplication\bin\Debug\ServiceApplication.exe
+C:\Home\EPAM_LAB\dotnetbasics-master\Day1\SampleService\ServiceApplication\bin\Debug\ServiceApplication.pdb
+C:\Home\EPAM_LAB\dotnetbasics-master\Day1\SampleService\ServiceApplication\bin\Debug\MyServiceLibrary.dll
+C:\Home\EPAM_LAB\dotnetbasics-master\Day1\SampleService\ServiceApplication\bin\Debug\MyServiceLibrary.pdb
+C:\Home\EPAM_LAB\dotnetbasics-master\Day1\SampleService\ServiceApplication\obj\Debug\ServiceApplication.csprojResolveAssemblyReference.cache
+C:\Home\EPAM_LAB\dotnetbasics-master\Day1\SampleService\ServiceApplication\obj\Debug\ServiceApplication.exe
+C:\Home\EPAM_LAB\dotnetbasics-master\Day1\SampleService\ServiceApplication\obj\Debug\ServiceApplication.pdb
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\bin\Debug\ServiceApplication.exe.config
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\obj\Debug\ServiceApplication.exe
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\obj\Debug\ServiceApplication.pdb
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\bin\Debug\ServiceApplication.exe
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\bin\Debug\ServiceApplication.pdb
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\bin\Debug\MyServiceLibrary.dll
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\bin\Debug\MyServiceLibrary.pdb
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\obj\Debug\ServiceApplication.csprojResolveAssemblyReference.cache
