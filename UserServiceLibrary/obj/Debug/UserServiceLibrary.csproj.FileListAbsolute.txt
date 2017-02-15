@@ -1,0 +1,6 @@
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\MyServiceLibrary\obj\Debug\UserServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\MyServiceLibrary\bin\Debug\UserServiceLibrary.XML
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\MyServiceLibrary\bin\Debug\UserServiceLibrary.dll
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\MyServiceLibrary\bin\Debug\UserServiceLibrary.pdb
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\MyServiceLibrary\obj\Debug\UserServiceLibrary.dll
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\MyServiceLibrary\obj\Debug\UserServiceLibrary.pdb

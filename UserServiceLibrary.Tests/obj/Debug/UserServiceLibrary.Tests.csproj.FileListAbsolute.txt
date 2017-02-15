@@ -1,0 +1,9 @@
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\MyServiceLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\MyServiceLibrary.Tests\obj\Debug\UserServiceLibrary.Tests.csprojResolveAssemblyReference.cache
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\MyServiceLibrary.Tests\bin\Debug\UserServiceLibrary.Tests.dll
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\MyServiceLibrary.Tests\bin\Debug\UserServiceLibrary.Tests.pdb
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\MyServiceLibrary.Tests\bin\Debug\UserServiceLibrary.dll
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\MyServiceLibrary.Tests\bin\Debug\UserServiceLibrary.pdb
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\MyServiceLibrary.Tests\bin\Debug\UserServiceLibrary.xml
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\MyServiceLibrary.Tests\obj\Debug\UserServiceLibrary.Tests.dll
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\MyServiceLibrary.Tests\obj\Debug\UserServiceLibrary.Tests.pdb

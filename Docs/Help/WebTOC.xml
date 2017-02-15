@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="e3f8f418-b073-4a57-86b2-7132ecce7a5a" Title="MyServiceLibrary" Url="html/70d5dade-7f77-0931-ee0f-14441f7e8080.htm">
+    <HelpTOCNode Id="f7e6cae0-4cf4-404e-9862-280de9dc9703" Title="User Class" Url="html/f7836e33-88b7-209b-ee88-bd9d1084510e.htm">
+      <HelpTOCNode Title="User Constructor " Url="html/02527a6f-efcf-1c81-cd1e-edc17046645d.htm" />
+      <HelpTOCNode Title="User Methods" Url="html/24268284-b3cb-5c60-5441-df1adff51a1d.htm" />
+      <HelpTOCNode Id="abe0f33d-b418-4ee5-8f5b-9f7530f9dd01" Title="User Properties" Url="html/0399a489-d714-f50f-4e1e-f362a506c860.htm">
+        <HelpTOCNode Title="DateOfBirth Property " Url="html/2b89d93a-7937-bd60-6c11-8f37a9125b39.htm" />
+        <HelpTOCNode Title="FirstName Property " Url="html/0d26a367-73fd-8e5f-6ce0-8df357ae1b36.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/3b121beb-0a17-f8de-1f86-86a7335a5b7f.htm" />
+        <HelpTOCNode Title="LastName Property " Url="html/a7b7ca09-ba03-4dfd-cf22-939ce23b48a7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b47c8c33-be7e-4044-8276-055a5c3518f0" Title="UserService Class" Url="html/63b100f0-bede-f32c-1f16-495c58b5f49e.htm">
+      <HelpTOCNode Id="2ced212f-072b-4b37-923e-2ef16777d8ec" Title="UserService Constructor " Url="html/235dfb95-f9ba-2596-896e-978d28eaf174.htm">
+        <HelpTOCNode Title="UserService Constructor " Url="html/c61512bd-d02c-57cf-6ec5-652cf0143f40.htm" />
+        <HelpTOCNode Title="UserService Constructor (Func(Object, Int32))" Url="html/d123c675-f0df-b02d-8575-157035dce445.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="38cfb0a4-796c-412f-8d1c-1637eac7aa0a" Title="UserService Methods" Url="html/4789ac4e-10f2-ddec-0f8d-41e6099e42f9.htm">
+        <HelpTOCNode Title="Add Method " Url="html/bbff5614-07b0-62d0-caf9-79e1d80a3bb7.htm" />
+        <HelpTOCNode Title="Delete Method " Url="html/b8bdad84-02d4-c31d-0cdf-776cb984951e.htm" />
+        <HelpTOCNode Title="SearchByFirstName Method " Url="html/5f1099b7-d07e-bf91-b6ce-1ffeea337977.htm" />
+        <HelpTOCNode Title="SearchByLastName Method " Url="html/5eed0548-081e-1112-1f30-9561d33d7375.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="801557c4-d192-4d3b-9a11-a2676c95a654" Title="MyServiceLibrary.Exceptions" Url="html/abeac403-5632-9a67-d93d-7ce1b6993d16.htm">
+    <HelpTOCNode Id="bb93d9f6-2f0a-46b5-8239-74352f11587c" Title="ExistingUserException Class" Url="html/cb7ca04a-0fef-c188-1560-7fd3ecaa8fd9.htm">
+      <HelpTOCNode Id="75ef00c9-d05f-478a-b1ba-92cc65d78cf9" Title="ExistingUserException Constructor " Url="html/129d194a-70c1-0635-e5f4-acc015302f24.htm">
+        <HelpTOCNode Title="ExistingUserException Constructor " Url="html/4ff3e33c-610e-1e75-7f94-bce21dd4a81c.htm" />
+        <HelpTOCNode Title="ExistingUserException Constructor (String)" Url="html/ea9aebeb-3727-7390-ceb5-6477c25c1e5b.htm" />
+        <HelpTOCNode Title="ExistingUserException Constructor (String, Exception)" Url="html/895b510e-1d38-af42-9b46-acbb2ee947ff.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ExistingUserException Methods" Url="html/1e108893-7523-7540-b58c-b6b1a8b1e625.htm" />
+      <HelpTOCNode Title="ExistingUserException Properties" Url="html/8edc60ef-7a8a-d9e1-8c8e-7521057ce7f4.htm" />
+      <HelpTOCNode Title="ExistingUserException Events" Url="html/6517c807-f6eb-913f-748a-0dafc8d1878f.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="c1ab8564-ad8b-464d-be72-b064c627e619" Title="NotExistingUserException Class" Url="html/1a303edf-cd25-e3da-cf8e-51028c910a70.htm">
+      <HelpTOCNode Id="0d3c4034-d095-4434-bc6b-c270340f823f" Title="NotExistingUserException Constructor " Url="html/a1316506-ba2b-32ed-1695-daaa782ddfe8.htm">
+        <HelpTOCNode Title="NotExistingUserException Constructor " Url="html/84341dcc-2829-49fa-5e9e-ae2fd406c271.htm" />
+        <HelpTOCNode Title="NotExistingUserException Constructor (String)" Url="html/1739d003-5228-eddf-d7a6-357b4fbbd3f8.htm" />
+        <HelpTOCNode Title="NotExistingUserException Constructor (String, Exception)" Url="html/d38a9b30-056d-7c37-1cab-37a8a3343fac.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="NotExistingUserException Methods" Url="html/842c1b2c-eca1-18cb-3552-d05b8a5eba77.htm" />
+      <HelpTOCNode Title="NotExistingUserException Properties" Url="html/09db6902-de76-2b95-e405-4a4b7aefaa94.htm" />
+      <HelpTOCNode Title="NotExistingUserException Events" Url="html/1db908ee-fda9-13b0-525d-1975cb4ba165.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f1d83fe7-101c-4dc5-b0f8-3fd9ff9e928b" Title="NotValidUserException Class" Url="html/f2ac1d7e-a9e3-8a3e-8468-8f688ec3fa4b.htm">
+      <HelpTOCNode Id="71a6a062-59b9-408b-9de4-00cc37cd2859" Title="NotValidUserException Constructor " Url="html/d5f346c4-4cc4-93d9-27f9-93e2ca32cff4.htm">
+        <HelpTOCNode Title="NotValidUserException Constructor " Url="html/18aa26ed-4d09-dc4e-14a2-391dc41418d3.htm" />
+        <HelpTOCNode Title="NotValidUserException Constructor (String)" Url="html/0e813634-05f9-b80d-161b-da02f7e88788.htm" />
+        <HelpTOCNode Title="NotValidUserException Constructor (String, Exception)" Url="html/6070fce8-2b23-1abc-4180-f0bac9f3e7c3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="NotValidUserException Methods" Url="html/4b0e96a3-a586-9fac-dcd9-0b4640471cbc.htm" />
+      <HelpTOCNode Title="NotValidUserException Properties" Url="html/b0e6bcd1-1b19-80c3-4edd-e63e95ff0c73.htm" />
+      <HelpTOCNode Title="NotValidUserException Events" Url="html/23524e8b-f0c1-229c-29a9-23873e31d36a.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

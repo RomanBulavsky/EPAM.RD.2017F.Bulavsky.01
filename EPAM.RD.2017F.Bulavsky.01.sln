@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserServiceApplication", "ServiceApplication\UserServiceApplication.csproj", "{DBB45675-D296-43BE-85ED-A05E8DE614E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserServiceApplication", "UserServiceApplication\UserServiceApplication.csproj", "{DBB45675-D296-43BE-85ED-A05E8DE614E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserServiceLibrary", "MyServiceLibrary\UserServiceLibrary.csproj", "{83615058-2919-4CA9-84C2-5368CEF9F281}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserServiceLibrary", "UserServiceLibrary\UserServiceLibrary.csproj", "{83615058-2919-4CA9-84C2-5368CEF9F281}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserServiceLibrary.Tests", "MyServiceLibrary.Tests\UserServiceLibrary.Tests.csproj", "{9A6C785F-F746-4392-89EF-C133C6FF80F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserServiceLibrary.Tests", "UserServiceLibrary.Tests\UserServiceLibrary.Tests.csproj", "{9A6C785F-F746-4392-89EF-C133C6FF80F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

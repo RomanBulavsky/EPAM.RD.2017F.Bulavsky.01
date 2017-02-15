@@ -1,0 +1,12 @@
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\obj\Debug\UserServiceApplication.csprojResolveAssemblyReference.cache
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\bin\Debug\UserServiceApplication.exe.config
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\bin\Debug\UserServiceApplication.exe
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\bin\Debug\UserServiceApplication.pdb
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\bin\Debug\UserServiceLibrary.dll
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\bin\Debug\UserServiceLibrary.pdb
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\bin\Debug\UserServiceLibrary.xml
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\obj\Debug\UserServiceApplication.exe
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\ServiceApplication\obj\Debug\UserServiceApplication.pdb
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\UserServiceApplication\bin\Debug\UserServiceApplication.exe.config
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\UserServiceApplication\obj\Debug\UserServiceApplication.exe
+C:\Home\EPAM_LAB\EPAM.RD.2017F.Bulavsky.01\UserServiceApplication\obj\Debug\UserServiceApplication.pdb

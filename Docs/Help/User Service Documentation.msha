@@ -1,0 +1,20 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>UserService Documented Class Library</title>
+</head>
+<body class="vendor-book">
+    <div class="details">
+        <span class="vendor">Vendor Name</span>
+        <span class="locale">en-us</span>
+        <span class="product">UserService Documented Class Library</span>
+        <span class="name">UserService Documented Class Library</span>
+    </div>
+    <div class="package-list">
+        <div class="package">
+            <!-- NOTE: The "name" span value cannot contain any periods! -->
+            <span class="name">User Service Documentation</span>
+            <a class="current-link" href="User Service Documentation.mshc">User Service Documentation.mshc</a>
+        </div>
+    </div>
+</body>
+</html>

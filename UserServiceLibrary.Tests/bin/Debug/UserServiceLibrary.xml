@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UserServiceLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:MyServiceLibrary.UserService">
+            <summary>
+            Class that provide work with storage of <see cref="T:MyServiceLibrary.User"/>
+            </summary>
+            <seealso cref="T:MyServiceLibrary.User"/>
+            <seealso cref="T:MyServiceLibrary.Exceptions.ExistingUserException"/>
+            <seealso cref="T:MyServiceLibrary.Exceptions.NotExistingUserException"/>
+            <seealso cref="T:MyServiceLibrary.Exceptions.NotValidUserException"/>
+        </member>
+        <member name="M:MyServiceLibrary.UserService.#ctor(System.Func{System.Object,System.Int32})">
+            <summary>
+            The constructor takes <see cref="T:System.Func`2"/> for creating <see cref="T:MyServiceLibrary.User"/> <see cref="P:MyServiceLibrary.User.Id"/>
+            </summary>
+            <param name="idCreator"><see cref="T:System.Func`2"/> where T is <see cref="T:System.Object"/>, TResult is <see cref="T:System.Int32"/></param>
+        </member>
+        <member name="M:MyServiceLibrary.UserService.Add(MyServiceLibrary.User)">
+            <summary>
+            Adds new <see cref="T:MyServiceLibrary.User"/> into storage
+            </summary>
+            <param name="user"> <see cref="T:MyServiceLibrary.User"/> instance </param>
+            <exception cref="T:System.ArgumentNullException"></exception>
+            <exception cref="T:MyServiceLibrary.Exceptions.ExistingUserException"></exception>
+        </member>
+        <member name="M:MyServiceLibrary.UserService.Delete(MyServiceLibrary.User)">
+            <summary>
+            Removes <see cref="T:MyServiceLibrary.User"/> from storage
+            </summary>
+            <param name="user"> <see cref="T:MyServiceLibrary.User"/> instance </param>
+            /// <exception cref="T:System.ArgumentNullException"></exception>
+            <exception cref="T:MyServiceLibrary.Exceptions.NotExistingUserException"></exception>
+            <exception cref="T:MyServiceLibrary.Exceptions.NotValidUserException"></exception>
+        </member>
+        <member name="M:MyServiceLibrary.UserService.SearchByFirstName(System.String)">
+            <summary>
+            Searches <see cref="T:MyServiceLibrary.User"/> entities by <see cref="!:firstname"/>
+            </summary>
+            <param name="firstname"> <see cref="T:System.String"/></param>
+            <returns> <see cref="T:System.Collections.Generic.IEnumerable`1"/> that consist the <see cref="!:firstname"/></returns>
+            <exception cref="T:System.ArgumentNullException"></exception>
+            <exception cref="T:System.ArgumentException"></exception>
+        </member>
+        <member name="M:MyServiceLibrary.UserService.SearchByLastName(System.String)">
+            <summary>
+            Searches <see cref="T:MyServiceLibrary.User"/> entities by <see cref="!:lastName"/>
+            </summary>
+            <param name="lastName"> <see cref="T:System.String"/></param>
+            <returns> <see cref="T:System.Collections.Generic.IEnumerable`1"/> that consist the <see cref="!:lastName"/></returns>
+            <exception cref="T:System.ArgumentNullException"></exception>
+            <exception cref="T:System.ArgumentException"></exception>
+        </member>
+        <member name="M:MyServiceLibrary.UserService.CheckArguments(System.Object)">
+            <summary>
+            Checks argument for null and, if argument is <see cref="T:System.String"/> for nonempty
+            </summary>
+            <param name="o"><see cref="T:System.Object"/></param>
+            <exception cref="T:System.ArgumentNullException"></exception>
+            <exception cref="T:System.ArgumentException"></exception>
+        </member>
+        <member name="M:MyServiceLibrary.UserService.CheckArguments(MyServiceLibrary.User)">
+            <summary>
+            Checks argument(<see cref="T:MyServiceLibrary.User"/>) for null and for validity
+            </summary>
+            <param name="user"><see cref="T:MyServiceLibrary.User"/></param>
+            <exception cref="T:System.ArgumentNullException"></exception>
+            <exception cref="T:System.ArgumentException"></exception>
+        </member>
+    </members>
+</doc>
